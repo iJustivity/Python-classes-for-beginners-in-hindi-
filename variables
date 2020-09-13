@@ -1,0 +1,14 @@
+a = 123 #  variable is assigned here 
+b = 89  #  variable is assigned here
+print ("a = ",a)
+'''
+print a-b)
+'''
+print ("a - b = ",a-b)
+
+# why are variables assigned ?
+
+credit_card =  87655676
+
+print (credit_card)
+
